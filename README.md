@@ -14,7 +14,7 @@ Praticar recursos de HTML, CSS e JavaScript.
 Entre eles:
 <ul>
   <li>Responsividade</li>
-  <li> Ligth e Dark mode</li>
+  <li> Light e Dark mode</li>
 </ul>
   
  ## Layout
